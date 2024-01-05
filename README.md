@@ -8,7 +8,7 @@
   <br><br>
   <a href="https://github.com/AhmedNasserHK/Multimedia-Application-UI/releases">
     <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/AhmedNasserHK/Multimedia-Application-UI?include_prereleases">
-    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/AhmedNasserHK/Multimedia-Application-UI/total">
+    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/AhmedNasserHK/HK4TECH-Ping-Monitor-Pro-Tool/total">
   </a>
   <a href="https://hk4tech.com">
     <img alt="Module Art website" src="https://img.shields.io/badge/www-HKProjects-%2300BCD4">
