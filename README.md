@@ -20,8 +20,10 @@
   <br>
     </a>
     <a href="https://hk4tech.com/home/Multimedia-Application-UI">
-    <img src="/Multimedia Application UI/Resources/SS/Screenshot.PNG"> <h1>Normal Version</h1>
-    <img src="/Multimedia Application UI/Resources/SS/Screenshot5.PNG"> <h1>Ramadan Version</h1>
+      <h1>Normal Version</h1>
+    <img src="/Multimedia Application UI/Resources/SS/Screenshot.PNG"> 
+    <img src="/Multimedia Application UI/Resources/SS/Screenshot5.PNG"> 
+      <h1>Ramadan Version</h1>
     <img src="/Multimedia Application UI/Resources/SS/Screenshot4.PNG">
     <img src="/Multimedia Application UI/Resources/SS/Screenshot2.PNG">
     <img src="/Multimedia Application UI/Resources/SS/Screenshot3.PNG">
