@@ -20,6 +20,6 @@
   <br>
     </a>
     <a href="https://hk4tech.com/home/Multimedia-Application-UI">
-    <img src="/HK4TECHPingMonitorProTool/Resources/SS/Screenshot.png">
+    <img src="/Multimedia-Application-UI/Resources/SS/Screenshot.png">
   </a>
 </p>
