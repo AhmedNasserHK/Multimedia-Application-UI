@@ -24,6 +24,8 @@
     <img src="/Multimedia Application UI/Resources/SS/Screenshot.PNG"> 
       <h1>Ramadan Version</h1>
     <img src="/Multimedia Application UI/Resources/SS/Screenshot5.PNG"> 
+    <h1>Live mode</h1>
+    <img src="/Multimedia Application UI/Resources/SS/Screenshot6.PNG">
       <h1>Configuration Controller</h1>
     <img src="/Multimedia Application UI/Resources/SS/Screenshot2.PNG">
     <img src="/Multimedia Application UI/Resources/SS/Screenshot3.PNG">
