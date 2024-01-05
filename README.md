@@ -18,7 +18,7 @@
   <br>
   v10.5.2.1 (Normal Version) - Jan 05, 2024 - <a href="https://github.com/AhmedNasserHK/Multimedia-Application-UI/releases/download/10.5.2.1/MA_UI-.Normal.7z">Download (2.32 MB)</a>
    <br>
-  v10.5.2.1 (Ramadan Version) - Jan 05, 2024 - <a href="https://github.com/AhmedNasserHK/Multimedia-Application-UI/releases/download/10.5.2.1/MA_UI-.Ramadan.7zz">Download (2.39 MB)</a>
+  v10.5.2.1 (Ramadan Version) - Jan 05, 2024 - <a href="https://github.com/AhmedNasserHK/Multimedia-Application-UI/releases/download/10.5.2.1/MA_UI-.Ramadan.7z">Download (2.39 MB)</a>
   <br>
     </a>
     <a href="https://hk4tech.com/home/Multimedia-Application-UI">
