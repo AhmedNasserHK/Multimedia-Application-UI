@@ -16,7 +16,8 @@
   <a href="https://hk4tech.com/home/Multimedia-Application-UI">
   </a>
   <br>
-  v1.1.0 (Stable) - Feb 04, 2023 - <a href="https://github.com/AhmedNasserHK/Multimedia-Application-UI/releases/download/1.1.0/HK4TECH_Ping-Monitor-Pro-Tool.exe">Download (683 KB)</a>
+  v10.5.2.1 (Normal Version) - Jan 05, 2024 - <a href="https://github.com/AhmedNasserHK/Multimedia-Application-UI/releases/download/10.5.2.1/HK4TECH_Multimedia-Application-UI_(Normal).7z">Download (683 KB)</a>
+  v10.5.2.1 (Ramadan Version) - Jan 05, 2024 - <a href="https://github.com/AhmedNasserHK/Multimedia-Application-UI/releases/download/10.5.2.1/HK4TECH_Multimedia-Application-UI_(Ramadan).7z">Download (683 KB)</a>
   <br>
     </a>
     <a href="https://hk4tech.com/home/Multimedia-Application-UI">
