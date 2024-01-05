@@ -24,7 +24,6 @@
     <img src="/Multimedia Application UI/Resources/SS/Screenshot.PNG"> 
       <h1>Ramadan Version</h1>
     <img src="/Multimedia Application UI/Resources/SS/Screenshot5.PNG"> 
-    <img src="/Multimedia Application UI/Resources/SS/Screenshot4.PNG">
     <img src="/Multimedia Application UI/Resources/SS/Screenshot2.PNG">
     <img src="/Multimedia Application UI/Resources/SS/Screenshot3.PNG">
     <img src="/Multimedia Application UI/Resources/SS/Screenshot4.PNG">
