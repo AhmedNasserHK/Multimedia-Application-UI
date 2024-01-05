@@ -20,11 +20,16 @@
   <br>
     </a>
     <a href="https://hk4tech.com/home/Multimedia-Application-UI">
-    
     <img src="/Multimedia Application UI/Resources/SS/Screenshot.PNG">
     <img src="/Multimedia Application UI/Resources/SS/Screenshot4.PNG">
     <img src="/Multimedia Application UI/Resources/SS/Screenshot2.PNG">
     <img src="/Multimedia Application UI/Resources/SS/Screenshot3.PNG">
     <img src="/Multimedia Application UI/Resources/SS/Screenshot4.PNG">
   </a>
+  <div class="example">  
+<img  class="background-image" src="https://ik.imagekit.io/fvilrnl1zve/hero.png?tr=w-1200,h-500">  
+<div class="overlay-text">    
+<h1>Welcome to our Blog</h1>    
+<p>We are committed to uploading educative content daily.</p>  
+</div></div>
 </p>
