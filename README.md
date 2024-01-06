@@ -29,7 +29,7 @@ Audio and video sharing and management software, You can also use it to share an
 
 # Review
 Normal Version
-<p>Normal Version <a href="[https://www.freecodecamp.org/](https://imgur.com/p2Uxwhh)" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
+<p> <a href="[https://www.WordPress.com](https://imgur.com/p2Uxwhh)" target="_blank">Normal Version</a> </p>
 
 Ramadan Version
 Live mode Normal
