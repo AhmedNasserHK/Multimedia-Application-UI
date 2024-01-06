@@ -75,5 +75,5 @@ Select existing issues or create a new issue and give us a PR with your bugfix o
 </a>
 
 ###############
-<a href="https://ibb.co/58RNTMT"><img src="https://i.ibb.co/Z8MndLd/01-Stock-Normal.gif" alt="01-Stock-Normal" border="0"></a>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/p2Uxwhh" data-context="false" ><a href="//imgur.com/a/p2Uxwhh"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
