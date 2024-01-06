@@ -63,7 +63,7 @@ Select existing issues or create a new issue and give us a PR with your bugfix o
 </a>
     <a href="https://hk4tech.com/home/Multimedia-Application-UI">
       <h1>Normal Version</h1>
-    <img src="/Multimedia Application UI/Resources/SS/01_StockNorma.gif"> 
+    <img src="/Multimedia Application UI/Resources/SS/01_StockNormal.gif"> 
       <h1>Ramadan Version</h1>
     <img src="/Multimedia Application UI/Resources/SS/01_StockRamadan.gif"> 
     <h1>Live mode (Normal+Ramadan) </h1>
