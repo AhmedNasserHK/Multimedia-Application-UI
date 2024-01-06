@@ -43,8 +43,8 @@ Audio and video sharing and management software, You can also use it to share an
 * Place a live image for each page.
 
 ## 🔗 Controller Configuration :
-* Press F1 For Settings Page
-* Press F2 For Your App Help Support
+* Press F1 For Settings Page.
+* Press F2 For Your App Help Support.
 * Supports creating and using paths and titles using (.VBS/.LNK).
 * The possibility of canceling any number of the 11 pages.
 * When some pages are not needed, just leave their button field empty.
