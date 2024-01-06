@@ -75,4 +75,4 @@ Select existing issues or create a new issue and give us a PR with your bugfix o
 </a>
 
 ###############
-[img]https://i.imgur.com/p2Uxwhh.gif[/img]
+[Imgur](https://imgur.com/p2Uxwhh)
