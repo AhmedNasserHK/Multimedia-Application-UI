@@ -43,14 +43,14 @@ Audio and video sharing and management software, You can also use it to share an
 * When some buttons are not needed, just leave the field empty.
 * Ability to change the names of the main and side buttons.
 * Ability to change the name of header under exit button.  (manual with <ChangeAppName.txt>)
-* Turn off/on Button methods.
+* Turn off/on Button methods. !each page has a separate control from the other page.
 * Turn off/on live images.
-* Turn off/on live images for the Ramadan version.
+* Turn off/on live images for the Ramadan version. !each page has a separate control from the other page.
 * Turn off/on the main button icons.
 * Turn off/on the Sound Hover.
-* Replacement Ability live images.
-* Replacement Ability live images for the Ramadan version (manual with <ResourcesHK\IMG\Ramadan\HERE .png's>)
-* Replacement Ability main button icons.
+* Replacement Ability live images. !each page has a separate control from the other page.
+* Replacement Ability live images for the Ramadan version (manual with <ResourcesHK\IMG\Ramadan\HERE .png's>) !each page has a separate control from the other page.
+* Replacement Ability main button icons. !each page has a separate control from the other page.
 * Replacement Ability Sound hover.
 
 ## 🔨 Contribution:
