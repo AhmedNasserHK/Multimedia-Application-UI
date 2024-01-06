@@ -27,7 +27,7 @@
 (HK4TECH Multimedia Application UI)
 Audio and video sharing and management software, You can also use it to share any other things, for companies and groups. Designed specifically for game and entertainment centers. The program is completely free and open source, and was created and developed by HKProjects (www.hk4tech.com)
 
-# Review
+# 🎬 Review
 * <p> <a href="https://imgur.com/p2Uxwhh" target="_blank" >Normal Version</a> </p>
 * <p> <a href="https://imgur.com/n1Bg1kp" target="_blank" >Ramadan Version</a> </p>
 * <p> <a href="https://imgur.com/nbvJUet" target="_blank" >Live mode Normal</a> </p>
@@ -67,7 +67,7 @@ Give us a star ⭐
 Fork and Clone! Awesome
 Select existing issues or create a new issue and give us a PR with your bugfix or improvement after. We love it ❤
 
-## 🔨 Review:
+## 🎬 Review On Github:
 </a>
     <a href="https://hk4tech.com/home/Multimedia-Application-UI">
       <h1>Normal Version</h1>
