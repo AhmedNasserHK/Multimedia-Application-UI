@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/Z8MndLd/01-Stock-Normal.gif" alt="01-Stock-Normal" border="0">
+<a href="https://ibb.co/58RNTMT"><img src="https://i.ibb.co/Z8MndLd/01-Stock-Normal.gif" alt="01-Stock-Normal" border="0"></a>
 
 
 
