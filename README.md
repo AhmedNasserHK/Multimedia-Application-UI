@@ -75,4 +75,4 @@ Select existing issues or create a new issue and give us a PR with your bugfix o
 </a>
 
 ###############
-<img src="https://example.com/p2Uxwhh.gif" alt="External Image">
+<img src="https://i.imgur.com/p2Uxwhh.gif" alt="External Image">  
