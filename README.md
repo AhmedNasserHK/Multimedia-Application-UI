@@ -29,24 +29,34 @@ Audio and video sharing and management software, You can also use it to share an
 
 ## 😃 Features :
 
-* Quickly and easily ping multiple hosts.
-* Color coding allows you to instantly determine the status of each host. Green means up. Red means down. Orange means error.
-* Each host monitor dynamically resizes and scales with the applications window.
-* Options to configure the interval between each ping, the timeout, TTL, and message size.
-* Monitor TCP ports. Tool will continuously connect to a given TCP port and will display whether the port is open or closed. Enter HOSTNAME:PORT for the hostname. Example - WebserverA:80
-* Option to log everything to a text file.
-* Option to log only status changes to a text file. A status change is when a host you are pinging goes down, or a down host comes back up.
-* Popup notifications to alert you of status changes.
-* Email notifications on status changes.
-* All colors can be customized.
-* Favorites. Easily save a collections of hosts to be recalled instantly at a later time.
-* Aliases. You can assign a friendly display name for any given host.
-* Traceroute. For the hostname, enter T/HOSTNAME to perform a traceroute.
-* DNS forward and reverse lookups. For the hostname, enter D/NAME_OR_IP to perform a DNS lookup.
-* Specify any number of hosts from the command line to instantly begin pinging when the application opens.
-* Specify a file containing a list of hosts to load and instantly ping when the application launches.
+* Designed with two interfaces (Regular / Ramadan).
+* With 90% complete control interface.
+* 11 Page every page had 8 buttons
+* 11 primary buttons, each button has 8 sub-buttons.
+* Place a live image for each page.
 
+## 🔗 Conttroller :
+* Supports creating and using paths and titles using (.VBS/.LNK).
+* The possibility of canceling any number of the 11 pages.
+* When some pages are not needed, just leave their button field empty.
+* Use any number of buttons.
+* When some buttons are not needed, just leave the field empty.
+* Ability to change the names of the main and side buttons.
+* Turn off/on Button methods.
+* Turn off/on live images for the Ramadan version.
+* Turn off/on the main button icons.
+* Turn off/on the Sound Hover.
+* Replacement Ability live images.
+* Replacement Ability live images for the Ramadan version (manual)
+* Replacement Ability main button icons.
+* Replacement Ability Sound hover.
 
+## 🔨 Contribution:
+Help HKProjects!
+
+Give us a star ⭐
+Fork and Clone! Awesome
+Select existing issues or create a new issue and give us a PR with your bugfix or improvement after. We love it ❤
 
 </a>
     <a href="https://hk4tech.com/home/Multimedia-Application-UI">
