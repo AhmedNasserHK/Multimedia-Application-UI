@@ -23,7 +23,7 @@
     </a>
     <a href="https://hk4tech.com/home/Multimedia-Application-UI">
       <h1>Normal Version</h1>
-    <img src="/Multimedia Application UI/Resources/SS/Screenshot.PNG"> 
+    <img src="/Multimedia Application UI/Resources/SS/01_StockNorma.gif"> 
       <h1>Ramadan Version</h1>
     <img src="/Multimedia Application UI/Resources/SS/Screenshot5.PNG"> 
     <h1>Live mode</h1>
