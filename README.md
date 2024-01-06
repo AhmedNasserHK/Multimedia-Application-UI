@@ -44,6 +44,7 @@ Audio and video sharing and management software, You can also use it to share an
 * Ability to change the names of the main and side buttons.
 * Ability to change the name of header under exit button.  (manual with <ChangeAppName.txt>)
 * Turn off/on Button methods.
+* Turn off/on live images.
 * Turn off/on live images for the Ramadan version.
 * Turn off/on the main button icons.
 * Turn off/on the Sound Hover.
