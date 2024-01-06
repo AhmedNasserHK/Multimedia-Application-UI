@@ -42,13 +42,13 @@ Audio and video sharing and management software, You can also use it to share an
 * Use any number of buttons.
 * When some buttons are not needed, just leave the field empty.
 * Ability to change the names of the main and side buttons.
-* Ability to change the names of headed under exit button.
+* Ability to change the names of headed under exit button.  (manual)
 * Turn off/on Button methods.
 * Turn off/on live images for the Ramadan version.
 * Turn off/on the main button icons.
 * Turn off/on the Sound Hover.
 * Replacement Ability live images.
-* Replacement Ability live images for the Ramadan version (manual)
+* Replacement Ability live images for the Ramadan version (manual with <ChangeAppName.txt>)
 * Replacement Ability main button icons.
 * Replacement Ability Sound hover.
 
