@@ -35,7 +35,7 @@ Audio and video sharing and management software, You can also use it to share an
 * 11 primary buttons, each button has 8 sub-buttons.
 * Place a live image for each page.
 
-## 🔗 Conttroller :
+## 🔗 Controller Configuration :
 * Supports creating and using paths and titles using (.VBS/.LNK).
 * The possibility of canceling any number of the 11 pages.
 * When some pages are not needed, just leave their button field empty.
