@@ -28,13 +28,11 @@
 Audio and video sharing and management software, You can also use it to share any other things, for companies and groups. Designed specifically for game and entertainment centers. The program is completely free and open source, and was created and developed by HKProjects (www.hk4tech.com)
 
 # Review
-Normal Version
-<p> <a href="https://imgur.com/p2Uxwhh" target="_blank">Normal Version</a> </p>
-
-Ramadan Version
-Live mode Normal
-Live mode Ramadan
-Configuration Controller
+* <p> <a href="https://imgur.com/p2Uxwhh" target="_blank" >Normal Version</a> </p>
+* <p> <a href="https://imgur.com/n1Bg1kp" target="_blank" >Ramadan Version</a> </p>
+* <p> <a href="https://imgur.com/nbvJUet" target="_blank" >Live mode Normal</a> </p>
+* <p> <a href="https://imgur.com/yuf2uZR" target="_blank" >Live mode Ramadan</a> </p>
+* <p> <a href="https://imgur.com/t6nHHBg" target="_blank" >Configuration Controller</a> </p>
 
 ## 😃 Features :
 
