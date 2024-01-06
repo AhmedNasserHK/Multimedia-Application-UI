@@ -75,4 +75,4 @@ Select existing issues or create a new issue and give us a PR with your bugfix o
 </a>
 
 ###############
-<blockquote class="imgur-embed-pub" lang="en" data-id="p2Uxwhh"><a href="https://imgur.com/p2Uxwhh">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[img]https://i.imgur.com/p2Uxwhh.gif[/img]
