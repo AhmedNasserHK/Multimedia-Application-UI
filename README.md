@@ -26,7 +26,7 @@
     <img src="/Multimedia Application UI/Resources/SS/01_StockNorma.gif"> 
       <h1>Ramadan Version</h1>
     <img src="/Multimedia Application UI/Resources/SS/01_StockRamadan.gif"> 
-    <h1>Live mode</h1>
+    <h1>Live mode <Normal+Ramadan> </h1>
     <img src="/Multimedia Application UI/Resources/SS/02_LiveNormal.gif">
     <img src="/Multimedia Application UI/Resources/SS/02_LiveRamadan.gif">
       <h1>Configuration Controller</h1>
