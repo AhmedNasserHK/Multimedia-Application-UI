@@ -27,6 +27,15 @@
 (HK4TECH Multimedia Application UI)
 Audio and video sharing and management software, You can also use it to share any other things, for companies and groups. Designed specifically for game and entertainment centers. The program is completely free and open source, and was created and developed by HKProjects (www.hk4tech.com)
 
+# Review
+Normal Version
+<p>Normal Version <a href="[https://www.freecodecamp.org/](https://imgur.com/p2Uxwhh)" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
+
+Ramadan Version
+Live mode Normal
+Live mode Ramadan
+Configuration Controller
+
 ## 😃 Features :
 
 * Designed with two interfaces (Regular / Ramadan).
@@ -73,6 +82,3 @@ Select existing issues or create a new issue and give us a PR with your bugfix o
       <h1>Configuration Controller</h1>
     <img src="/Multimedia Application UI/Resources/SS/03_Controller.gif">
 </a>
-
-###############
-<img src="https://i.imgur.com/p2Uxwhh.gif" alt="External Image">  
