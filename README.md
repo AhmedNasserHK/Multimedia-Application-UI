@@ -1,7 +1,3 @@
-<a href="https://ibb.co/58RNTMT"><img src="https://i.ibb.co/Z8MndLd/01-Stock-Normal.gif" alt="01-Stock-Normal" border="0"></a>
-
-
-
 <p align="center">
   <img src="/Multimedia Application UI/_NewIconTrans.png">
 </p>
@@ -77,3 +73,7 @@ Select existing issues or create a new issue and give us a PR with your bugfix o
       <h1>Configuration Controller</h1>
     <img src="/Multimedia Application UI/Resources/SS/03_Controller.gif">
 </a>
+
+###############
+<a href="https://ibb.co/58RNTMT"><img src="https://i.ibb.co/Z8MndLd/01-Stock-Normal.gif" alt="01-Stock-Normal" border="0"></a>
+
